@@ -1,0 +1,5 @@
+{
+  "name": "Brill copy",
+  "description": "A customizable dashboard for saving and quickly copying frequently used texts and prompts.",
+  "requestFramePermissions": ["clipboard-write"]
+}
